@@ -70,7 +70,7 @@ fn main() {
     
     */
 
-    // scope of variables in {}
+    // showing how a variable can change inside and outside of scope {}
     let mut s = 65;
     {
         //let s = 60;     //using this let command makes the variable inside the scope a new variable and only holds for the scope of this area
